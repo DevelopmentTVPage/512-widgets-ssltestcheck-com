@@ -1,0 +1,15 @@
+{
+    "title": "SSL test check",
+    "baseURL": "https:\/\/widgets.ssltestcheck.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758927",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "ssltestcheck.com"
+    }
+}
